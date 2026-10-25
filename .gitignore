@@ -1,0 +1,6 @@
+.env
+saved_files/
+qdrant_data/
+__pycache__/
+*.xls
+*.xlsx
